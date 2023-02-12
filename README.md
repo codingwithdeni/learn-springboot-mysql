@@ -4,8 +4,7 @@
 On this repo we will learn how to create REST API using Springboot, 
 that apis will have CRUD function for connecting and storing data to MySql database. 
 
-If you want read the full articles all about this repo, 
-you can see on this [link](https://deni-setiawan.medium.com/create-rest-api-using-springboot-and-mysql-808cdf9e3bdd)
+If you want read the full articles all about this repo, you can see on this article [https://deni-setiawan.medium.com](https://deni-setiawan.medium.com/create-rest-api-using-springboot-and-mysql-808cdf9e3bdd)
 
 ### Requirements
 - Maven 3+
