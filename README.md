@@ -27,8 +27,9 @@ If you want read the full articles all about this repo, you can see on this [art
 - project/document/server/docker-compose.yml
 
 
-### contributors
-- @denitiawan
-- @denpaden
 
+
+### contributors
+- https://github.com/denitiawan
+- https://github.com/denpaden
 
